@@ -41,7 +41,7 @@
 }
 
 body{
-  height: 1500px;
+  height: 100vh;
   padding-left: 100px;
   position: relative;
   padding-bottom: 50px;
